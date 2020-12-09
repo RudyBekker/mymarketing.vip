@@ -1,0 +1,4 @@
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.mymarketing.vip/sitemap.xml
+User-agent: *
+
